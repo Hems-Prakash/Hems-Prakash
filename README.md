@@ -1,4 +1,4 @@
-# Hi, I'm Hems 👋
+# Hi, I'm Hemalatha Prakash 👋
 
 Master of Information Technology graduate based in Auckland, New Zealand. I'm interested in machine learning, explainable AI, and data analysis, and I'm looking for a graduate role/entry level roles where I can apply them to real problems.
 
